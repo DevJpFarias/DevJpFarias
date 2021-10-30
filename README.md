@@ -1,7 +1,7 @@
 ### Olá, meu nome é João Paulo, mas pode me chamar de Migufe também!
 
-- 🔭 Sou programador back-end Junior
-- 🌱 Estudo: Node.js e TypeScript.
+- 🔭 Sou programador Back-end Junior
+- 🌱 Estudo: Node.js.
 - 😄 Pronouns: ele/dele
 
  <div>
