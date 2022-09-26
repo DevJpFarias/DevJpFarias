@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/Migufe_JP?label=Follow&style=social)](https://twitter.com/Migufe_JP)
 
 - 🔭 Sou programador Back-end Junior
-- 🌱 Estudo: Node.js e dando os primeiros passos em React.js
+- 🌱 Linguagens: Node.js, JavaScript e TypeScript
 - 😄 Pronouns: ele/dele
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Migufe&theme=github)
