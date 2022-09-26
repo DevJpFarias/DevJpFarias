@@ -1,22 +1,16 @@
 ### Olá, meu nome é João Paulo, mas pode me chamar de Migufe também!
+[![Github](https://img.shields.io/github/followers/Migufe?label=Follow&style=social)](https://github.com/Migufe)
+[![Twitter](https://img.shields.io/twitter/follow/Migufe_JP?label=Follow&style=social)](https://twitter.com/Migufe_JP)
 
 - 🔭 Sou programador Back-end Junior
 - 🌱 Estudo: Node.js e dando os primeiros passos em React.js
 - 😄 Pronouns: ele/dele
 
- <div>
-  <a href="https://github.com/Migufe">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Migufe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Migufe&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Migufe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Migufe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Migufe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Migufe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Migufe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Migufe&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Migufe&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Migufe&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Migufe&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Migufe&theme=github)
   
   ##
   
