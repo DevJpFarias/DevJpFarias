@@ -40,7 +40,6 @@ Meu nome é João Paulo Farias, tenho 20 anos e sou Desenvolvedor Fullstack Juni
 <p align="justify">
  <a href="https://www.linkedin.com/in/joao-paulo-farias/"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
  <a href="https://www.instagram.com/joaopaulo.migufe/"><img src="https://img.shields.io/badge/joaopaulo.migufe-%230d1117.svg?style=for-the-badge&logo=Instagram&logoColor=#E4405F"/></a>
- <a href="https://twitter.com/DevJpFarias"><img src="https://img.shields.io/badge/@DevJpFarias-%230d1117.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
 </p>
  
 </div>
