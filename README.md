@@ -15,6 +15,12 @@ Meu nome é João Paulo Farias, tenho 20 anos e sou Desenvolvedor Fullstack Juni
 </p>
 
 ## techs && skills
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
 <p align="justify">
  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
  <!-- <img alt="Next.js" src="https://img.shields.io/badge/Next-%230d1117?style=for-the-badge&logo=next.js"/> -->
@@ -34,10 +40,6 @@ Meu nome é João Paulo Farias, tenho 20 anos e sou Desenvolvedor Fullstack Juni
  <!-- <img alt="C#" src="https://img.shields.io/badge/C%23-%230d1117?style=for-the-badge&logo=c-sharp"/> -->
  <!-- <img alt="Unity" src="https://img.shields.io/badge/unity-%230d1117.svg?style=for-the-badge&logo=unity"/> -->
  <!-- <img alt="Vercel" src="https://img.shields.io/badge/vercel-%230d1117.svg?style=for-the-badge&logo=vercel"/> -->
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 </p>
  
 ## social && contact
