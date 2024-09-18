@@ -1,7 +1,7 @@
 ### Olá, meu nome é João Paulo, mas pode me chamar de Migufe também!
 
 - 🔭 Sou programador Fullstack
-- 🌱 Linguagens: Node.js, NestJS, TypeScript, JavaScript, React, React Native, HTML e CSS.
+- 🌱 Linguagens: NodeJS, NestJS, ReactJS, NextJS, React Native, TypeScript, JavaScript, Go, Java e Python
 
 <p align="left">
 <img width="56%" src="https://github-readme-stats.vercel.app/api?username=DevJpFarias&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="44%" src="http://github-readme-streak-stats.herokuapp.com?user=DevJpFarias&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
