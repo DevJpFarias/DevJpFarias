@@ -1,4 +1,4 @@
-### Olá, meu nome é João Paulo, mas pode me chamar de Migufe também!
+### Olá, meu nome é João Paulo
 
 - 🔭 Sou programador Fullstack
 - 🌱 Linguagens: NodeJS, NestJS, ReactJS, NextJS, React Native, TypeScript, JavaScript, Go, Java e Python
